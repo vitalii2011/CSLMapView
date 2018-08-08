@@ -475,6 +475,6 @@
     <value>Названия парков</value>
   </data>
   <data name="MergeTrainAndMetro" xml:space="preserve">
-    <value>Слияние близких железнодорожных и метро остановок</value>
+    <value>Слияние близких метро и железнодорожных остановок</value>
   </data>
 </root>
