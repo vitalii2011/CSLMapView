@@ -171,7 +171,7 @@
     <value>Паромные маршруты</value>
   </data>
   <data name="Font" xml:space="preserve">
-    <value>Шрифты</value>
+    <value>Шрифт</value>
   </data>
   <data name="GridHeaderColor" xml:space="preserve">
     <value>Цвет</value>
@@ -381,7 +381,7 @@
     <value>Участки</value>
   </data>
   <data name="Train" xml:space="preserve">
-    <value>Поезд</value>
+    <value>Ж/Д маршрут</value>
   </data>
   <data name="TrainLines" xml:space="preserve">
     <value>Маршруты поездов</value>
